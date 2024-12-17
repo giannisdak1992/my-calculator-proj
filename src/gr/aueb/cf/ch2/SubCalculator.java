@@ -8,6 +8,7 @@ public class SubCalculator {
         int result = 0;
 
         result = sub(num1, num2);
+        System.out.println("Sub: " +result);
 
     }
 
